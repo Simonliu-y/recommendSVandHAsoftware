@@ -14,7 +14,7 @@ With the rapid development of the third generation sequencing technology, haplot
 | samtools  | 1.6 |
 | minimap2  | 2.24 |
 
-##Recommendation
+## Recommendation
 Installation-free mode, copy the code directly and run the following command.
 
 Recommendation running example:
